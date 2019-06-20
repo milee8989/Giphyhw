@@ -1,4 +1,6 @@
-
+* {
+   font-family: 'Comic sans ms', Courier, monospace
+}
 body {
 font: 18px arial;
 background-image: url(../images/animal.jpg);
