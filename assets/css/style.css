@@ -15,8 +15,8 @@ image{
 
 #animal-form{
     float: left;
-    background-color: rgb(187, 198, 218);
-    margin-right: 424px;
+    background-color: #ca99b6;
+    margin-right: 200px;
 }
 
 #animmal{
@@ -30,8 +30,8 @@ image{
 
 form{
     float:right;
-    width:40%;
-    padding:20px;
+    width:20%;
+    padding:10px;
 }
 
 label{
