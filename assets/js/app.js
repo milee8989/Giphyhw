@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-  var animals = ["dog", "cat", "horse", "tiger"];
+  var animals = ["siamese", "persian", "scottish fold", "maine coon", "russian blue", "Balinese"];
 
   /// function to make the buttons and add them to the page
   function populateButtons(arrayToUse, classToAdd, areaToAddTo) {
